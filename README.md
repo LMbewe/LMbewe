@@ -12,9 +12,11 @@ I’m Lebogang Mbewe a passionate and driven professional with a keen interest i
 I am deeply passionate about:
 - Transforming raw data into meaningful insights.  
 - Developing visualizations and dashboards that tell compelling stories.  
-- Collaborating with teams to solve problems creatively and efficiently.
+- Collaborating with teams to solve problems creatively and efficiently
 
 ### Let’s Connect!  
 Feel free to explore my projects and reach out if you’d like to collaborate, discuss ideas, or just connect. I’m always eager to learn, share, and contribute to exciting projects. 😊  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LMbewe)
 
 
