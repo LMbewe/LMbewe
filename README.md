@@ -33,7 +33,7 @@ Developed a robust anime recommender system capable of accurately predicting use
 
 ### Water Quality Analysis in Buenos Aires' River Systems
 <div id="main image" align="center">
-  <img src=
+  <img src=https://github.com/LMbewe/LMbewe/blob/main/Water%20Pollution%20Powerbi%20Insights.png?raw=true width="960" height="500" alt=""/>
 </div>
 
 **Project Overview:**
