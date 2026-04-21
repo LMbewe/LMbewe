@@ -19,7 +19,7 @@ I am deeply passionate about:
 ### **Anime Recommender System for Fusion-X Network**  
 
 <div id="main image" align="center">
-  <img src="https://uchi.imgix.net/general/anime2.png?crop=focalpoint&domain=uchi.imgix.net&fit=crop&fm=pjpg&fp-x=0.5&fp-y=0.5&h=558&ixlib=php-3.3.1&q=82&usm=20&w=992" width="960" height="500" alt=""/>
+  <img src="https://images2.alphacoders.com/459/thumb-1920-459572.png" width="960" height="500" alt=""/>
 </div>
 
 **Project Overview:**  
